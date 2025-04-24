@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Furkanznamlı</h1>
+<h1 align="center">Hi 👋, I'm Furkan Öznamlı</h1>
 <h3 align="center">Currently diving into backend development</h3>
 
 - 🌱 I’m currently learning **.Net Core**
